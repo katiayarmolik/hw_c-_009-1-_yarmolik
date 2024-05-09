@@ -1,0 +1,8 @@
+C:\Users\Користувач\Desktop\hw_c#_009 (1)_yarmolik\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Користувач\Desktop\hw_c#_009 (1)_yarmolik\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Користувач\Desktop\hw_c#_009 (1)_yarmolik\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Користувач\Desktop\hw_c#_009 (1)_yarmolik\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Користувач\Desktop\hw_c#_009 (1)_yarmolik\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Користувач\Desktop\hw_c#_009 (1)_yarmolik\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Користувач\Desktop\hw_c#_009 (1)_yarmolik\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Користувач\Desktop\hw_c#_009 (1)_yarmolik\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
